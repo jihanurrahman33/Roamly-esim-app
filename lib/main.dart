@@ -20,8 +20,6 @@ void main() {
   runApp(const RoamlyApp());
 }
 
-typedef HolaflyCloneApp = RoamlyApp;
-
 class RoamlyApp extends StatelessWidget {
   const RoamlyApp({super.key});
 

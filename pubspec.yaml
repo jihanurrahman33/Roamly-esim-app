@@ -57,20 +57,18 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/assets/icons/
-    - assets/assets/logos/
-    - assets/assets/images/
-    - assets/packages/holafly_ui/assets/images/
-    - assets/packages/holafly_payments/assets/icons/
-    - assets/packages/flutter_multi_formatter/flags/png/
+    - assets/icons/
+    - assets/logos/
+    - assets/images/
+    - assets/flags/
 
   fonts:
     - family: ModernEra
       fonts:
-        - asset: assets/packages/holafly_ui/assets/fonts/Modern-Era-Regular.otf
+        - asset: assets/fonts/Modern-Era-Regular.otf
           weight: 400
-        - asset: assets/packages/holafly_ui/assets/fonts/Modern-Era-Medium.otf
+        - asset: assets/fonts/Modern-Era-Medium.otf
           weight: 500
-        - asset: assets/packages/holafly_ui/assets/fonts/Modern-Era-Bold.otf
+        - asset: assets/fonts/Modern-Era-Bold.otf
           weight: 700
 

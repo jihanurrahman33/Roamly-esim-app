@@ -29,7 +29,6 @@ class AppColors {
 
   // RoamCoins & Loyalty Tiers
   static const Color roamcoinGold = Color(0xFFFFB800);
-  static const Color holacoinGold = roamcoinGold; // alias
   static const Color silverTier = Color(0xFF94A3B8);
   static const Color goldTier = Color(0xFFEAB308);
   static const Color platinumTier = Color(0xFF6366F1);
